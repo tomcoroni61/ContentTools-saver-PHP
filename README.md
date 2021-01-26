@@ -1,11 +1,12 @@
 # ContentTools-saver-PHP
 Save html files by php edited with ContentTools
 
-Edit html files direct in your Browser and save it.
+It is thought to run on Windows 10 Webserver.
+Edit and save your Homepage there (local on your pc) and then upload/update with ftp.
 
-Basic files from contentTools, "saver Files", example and little help is included.
+No Setup needed only little change to start.
 
-Little knowledge in html and css should be given.
+Little help and more in english und deutsch is included.
 
-For me the best way making my Homepage.
+
 01.2021
